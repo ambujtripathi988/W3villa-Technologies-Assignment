@@ -70,7 +70,7 @@ This is a Task Manager web application that allows users to create, view, update
 
    ```sh
    cd server
-   npm dev
+   npm run dev
    ```
 
    The server will run on `http://localhost:8000`.
@@ -79,7 +79,7 @@ This is a Task Manager web application that allows users to create, view, update
 
    ```sh
    cd ../client
-   npm dev
+   npm run dev
    ```
 
    The client will run on `http://localhost:3000`.
